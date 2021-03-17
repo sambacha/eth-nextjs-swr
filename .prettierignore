@@ -1,0 +1,6 @@
+styles/
+pages/
+build/
+dist/
+*.html
+*.css
